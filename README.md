@@ -33,18 +33,23 @@ For the purpose of hackathon preparation, you can use Databricks Free Edition to
 
 # Synthetic Data Source
 Python Notebook to generate five 200 rows of fruit juice recipe.
+- https://github.com/nicholas-chin/odp201/blob/main/0.%20Synthetic%20Data%20Sources.ipynb
 
 # Data Engineer
 1. Spark SQL Notebook to ingest data from source to bronze layer.
+   - https://github.com/nicholas-chin/odp201/blob/main/1.%20%20Bronze%20ingestion%20from%20Data%20Source.ipynb
 1. Spark SQL Notebook to transform data from bronze layer to silver layer.
-
+   - https://github.com/nicholas-chin/odp201/blob/main/2.%20%20Silver%20transformation%20from%20Bronze.ipynb
+     
 # Data Scientist
 1. Python Notebook to prepara data, run experiment and register model for sharing.
+   - https://github.com/nicholas-chin/odp201/blob/main/Linear%20Regression%20101.ipynb
 1. Deploy model serving endpoint.
 
 # Subject Matter Expert
 1. Create Materialized View from silver layer to gold layer.
-2. Create Dashboard from Materialized View.
+   - https://github.com/nicholas-chin/odp201/blob/main/3.%20Gold%20Materialized%20View%20from%20silver.sql
+3. Create Dashboard from Materialized View.
 
 # Closing
 Thanks for reading!
