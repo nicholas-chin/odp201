@@ -31,6 +31,17 @@ For the purpose of hackathon preparation, you can use Databricks Free Edition to
    - <img width="700" height="1000" alt="image" src="https://github.com/user-attachments/assets/719b88de-41cb-40f9-ad0a-abb1e0b30ea6" />
 1. Review, run, modify individual cell as you learn, have fun in the hackathon!
 
+# Create Unity Catalog
+Before running the notebooks, please create the Catalog and Schema first.
+1. Click on Catalog on the left menu, click the Plus button.
+   - <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/beab0f70-25c3-4f87-afac-aea770e04e11" />
+1. Click on "Create a catalog"
+   - <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/53819a4b-e041-48a9-80c0-e53294384f1c" />
+1. Name it "odp_hackathon25", click Create button
+   - <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/d8dcb6f7-87b5-4446-811a-1cde0d5fd9d7" />
+1. After the catalog is created, click on "Create Schema"
+   - <img width="600" height="925" alt="image" src="https://github.com/user-attachments/assets/05e79619-47a0-4116-a17c-1bfddf27c1af" />
+
 # Synthetic Data Source
 Python Notebook to generate five 200 rows of fruit juice recipe.
 - https://github.com/nicholas-chin/odp201/blob/main/0.%20Synthetic%20Data%20Sources.ipynb
